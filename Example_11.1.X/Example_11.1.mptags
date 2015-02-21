@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+CONFIG_H	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\config.h	12;"	d	line:12
+DELAY__H	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.h	13;"	d	line:13
+DelayFor18TCY	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	17;"	f	line:17	signature:( void )
+DelayPORXLCD	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	25;"	f	line:25	signature:(void)
+DelayXLCD	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	34;"	f	line:34	signature:(void)
+Delay_s	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	53;"	f	line:53	signature:(unsigned char t)
+Delay_s	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.h	25;"	p	line:25	signature:(unsigned char t)
+STEP_H	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\step.h	9;"	d	line:9
+delay_ms	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	42;"	f	line:42	signature:(unsigned char t)
+delay_ms	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.h	15;"	p	line:15	signature:(unsigned char t)
+i	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	19;"	l	line:19
+i	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	36;"	l	line:36
+i	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	44;"	l	line:44
+i	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	55;"	l	line:55
+j	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\delay.c	55;"	l	line:55
+main	C:\Users\tbi\Dropbox\Sunil Kumar_shared\CODE_Examples_C18_XC8_compatable\STEPPER MOTOR\Example_11.1.X\main.c	43;"	f	line:43

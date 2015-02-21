@@ -1,0 +1,5 @@
+_Delay1KTCYx: CODE, 32640 0 16
+_main: CODE, 32682 0 86
+__initialization: CODE, 32634 0 0
+_delay_ms: CODE, 32656 0 26
+Total: 128
